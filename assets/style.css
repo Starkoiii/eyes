@@ -66,6 +66,7 @@ body {
 .right-handle {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
+  margin-right: 0px;
 }
 
 .handle:hover,
